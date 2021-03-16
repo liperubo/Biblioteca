@@ -1,5 +1,4 @@
-# sistema_biblioteca_c
-Projeto Final (AF) - Programação Estruturada - FACENS
+# Projeto Final (AF) - Programação Estruturada - FACENS
 Turma: CP116TIM1
 
 Grupo 5 - Integrantes:
