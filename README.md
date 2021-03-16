@@ -1,6 +1,12 @@
 # sistema_biblioteca_c
-Projeto da disciplina de Programação Estruturada da FACENS
+Projeto Final (AF) - Programação Estruturada - Projeto Biblioteca
 
+Grupo 5 - Integrantes:
+* Felipe Victorino Sarubo 200574
+* Lissa Bruna Urbano 120780
+* Raquel Kuntz Oliveira 121036
+
+Turma: CP116TIM1
 
 - Manter o nome e tipo das variaveis e os membros das estruturas fornecidos pela professora.
 - Utilizar: alocação dinâmica, ponteiros para memória e ponteiros para arquivos.
